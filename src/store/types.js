@@ -1,0 +1,25 @@
+//export const = '';
+// Getters
+
+export const GET_HAVE_SWITCH = 'supplies/GET_HAVE_SWITCH';
+export const GET_SUPPLIES = 'supplies/GET_SUPPLIES';
+
+// Mutations
+
+export const MUTATE_ADD_SUPPLY = 'supply/MUTATE_ADD_SUPPLY';
+export const MUTATE_CHANGE_ITEM_HAVE_STATUS = 'supply/MUTATE_CHANGE_ITEM_HAVE_STATUS';
+export const MUTATE_DELETE_ITEM = 'supply/MUTATE_DELETE_ITEM';
+export const MUTATE_SET_HAVE_SWITCH = 'supply/MUTATE_SET_HAVE_SWITCH';
+export const MUTATE_SWITCH_ALL_HAVE_STATUS = 'supply/MUTATE_SWITCH_ALL_HAVE_STATUS';
+export const MUTATE_TOGGLE_HAVE_SWITCH = 'supply/MUTATE_TOGGLE_HAVE_SWITCH';
+
+
+
+// Actions
+
+export const SUPPLY_ADD_SUPPLY = 'supply/SUPPLY_ADD_SUPPLY';
+export const SUPPLY_CHANGE_ITEM_HAVE_STATUS = 'supply/SUPPLY_CHANGE_ITEM_HAVE_STATUS';
+export const SUPPLY_DELETE_ITEM = 'supply/SUPPLY_DELETE_ITEM';
+export const SUPPLY_SET_HAVE_SWITCH = 'supply/SUPPLY_SET_HAVE_SWITCH';
+export const SUPPLY_SWITCH_ALL_HAVE_STATUS = 'supply/SUPPLY_SWITCH_ALL_HAVE_STATUS';
+export const SUPPLY_TOGGLE_HAVE_SWITCH = 'supply/SUPPLY_TOGGLE_HAVE_SWITCH';
